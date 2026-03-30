@@ -21,7 +21,7 @@ This project presents an interactive sales dashboard analyzing Flipkart data to 
 
 ## 🛠 Tools Used
 
-* Power BI / Tableau / Excel (mention yours)
+* Power BI / Excel 
 * Data Visualization
 * Data Analysis
 
