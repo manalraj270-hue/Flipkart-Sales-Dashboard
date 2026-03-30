@@ -27,7 +27,7 @@ This project presents an interactive sales dashboard analyzing Flipkart data to 
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot 2026-03-30 103743.png)
+[Dashboard](Screenshot 2026-03-30 103743.png)
 
 ## 📈 Business Use Case
 
